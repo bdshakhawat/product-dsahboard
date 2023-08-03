@@ -39,7 +39,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Portfolio Project ](#-portfolio-project-)
+- [📖 Dashboard Project ](#-dashboard-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio Project <a name="about-project"></a>
+# 📖 Dashboard Project <a name="about-project"></a>
 
 
 **Product Dashboard Project** is a personal project to showcase my skills and works
