@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Portfolio Project</b></h3>
+  <h3><b>Product Dashboard Project</b></h3>
 
 </div>
 
@@ -63,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 Portfolio Project <a name="about-project"></a>
 
 
-**Portfolio Project** is a personal project to showcase my skills and works
+**Product Dashboard Project** is a personal project to showcase my skills and works
 
 ## 🛠 Built With <a name="built-with"></a>
 
